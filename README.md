@@ -1,2 +1,2 @@
 # hello
-django and redis
+django and memcached
