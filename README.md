@@ -1,0 +1,2 @@
+# hello
+django and redis
